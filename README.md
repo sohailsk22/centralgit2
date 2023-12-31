@@ -1,4 +1,4 @@
 # centralgit2
 <br>
 my practice git
-author - sohail
+author - sohail (my collegeg) sonu
